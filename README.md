@@ -37,10 +37,15 @@ mas com adições de teclas de atalho (bastante baseado em VIM).
 ## Tecnologias
 
 **IDE**: Neovim e Vim
+
 **Controladores de Versão**: Git e Github
+
 **Linguagem** : C
+
 **Bibliotecas de C**: ?
+
 **Gerenciador de projeto**: Trello
+
 **Ferramenta de Design**: Figma
 
 [Trello](https://trello.com/b/IodL40ss/meu-quadro-do-trello)
