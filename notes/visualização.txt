@@ -1,0 +1,6 @@
+a visualização do que se digita e do que está no arquivo não pode ser de maneira estática.
+    não pode ser apenas printf's pra cada linha do arquivo.
+
+é preciso pensar no cursor, que se move livremente, apagando, escrevendo e percorrendo o texto.
+
+a intertace simples, como editor de terminal.
